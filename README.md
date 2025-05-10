@@ -12,7 +12,7 @@ Bash theme made to look like powerlevel10k <br />
 ## Installation:
 To install, start by cloning this repository:
 ```bash
-git clone https://github.com/z-ffqq/powerbash.git ~/.local/share/powerbash 
+git clone https://github.com/katzerax/powerbash.git ~/.local/share/powerbash 
 echo "source ~/.local/share/powerbash/powerbash.bash-theme" >> ~/.bashrc
 ```
 Proceed by restarting bash:
